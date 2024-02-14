@@ -3,6 +3,7 @@ import React from "react";
 const AboutFeature = () => {
   return (
     <>
+      <div>hi there !</div>
       <div className="my-9">
         <h1 className="text-center text-orange-300 text-3xl">Our feature</h1>
       </div>
