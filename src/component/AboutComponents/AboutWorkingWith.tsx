@@ -18,7 +18,7 @@ const AboutWorkingWith = () => {
             alt="pic-1"
           />
         </div>
-        <div className="grid grid-cols-1 lg:grid-cols-2  gap-4">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 mt-6">
           {listOfAreas.map((item) => (
             <div className=" h-155px shadow-md lg:max-w-[216px] w-full  text-black px-6 py-5">
               <div className="flex justify-between items-center">
